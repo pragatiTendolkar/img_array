@@ -1,0 +1,109 @@
+*{
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+
+}
+.sub-container {
+  height: 125px;
+  padding: 10px;
+  border: 1px solid black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn{
+  text-align: right;
+}
+button{
+  margin: 5px;
+  padding: 8px;
+  font-size: 20px;
+  background-color: grey;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px black;
+  cursor: pointer;
+  text-align: right;
+  
+}
+
+button:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+
+}
+input{
+  cursor: pointer;
+}
+
+#sub-container1{
+  background-image: url("img/img1.jpg");
+}
+
+#sub-container2{
+  background-image: url("img/img2.jpg");
+}
+
+#sub-container3{
+  background-image: url("img/img3.jpg");
+}
+
+#sub-container4{
+  background-image: url("img/img4.jpg");
+}
+
+#sub-container5{
+  background-image: url("img/img5.jpg");
+}
+
+#sub-container6{
+  background-image: url("img/img6.jpg");
+}
+
+#sub-container7{
+  background-image: url("img/img7.jpg");
+}
+
+#sub-container8{
+  background-image: url("img/img8.jpg");
+}
+
+#sub-container9{
+  background-image: url("img/img9.jpg");
+}
+
+#sub-container10{
+  background-image: url("img/img10.jpg");
+}
+
+#sub-container11{
+  background-image: url("img/img11.jpg");
+}
+
+#sub-container12{
+  background-image: url("img/img12.jpg");
+}
+
+#sub-container13{
+  background-image: url("img/img13.jpg");
+}
+
+#sub-container14{
+  background-image: url("img/img14.jpg");
+}
+
+#sub-container15{
+  background-image: url("img/img15.jpg");
+}
+
+#sub-container16{
+  background-image: url("img/img16.jpg");
+}
