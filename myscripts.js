@@ -15,10 +15,10 @@ function changeImage() {
     checkbox10 = document.getElementById("Checkbox10").checked;
     checkbox11 = document.getElementById("Checkbox11").checked;
     checkbox12 = document.getElementById("Checkbox12").checked;
-    checkbox13 = document.getElementById("Checkbox12").checked;
-    checkbox14 = document.getElementById("Checkbox12").checked;
-    checkbox15 = document.getElementById("Checkbox12").checked;
-    checkbox16 = document.getElementById("Checkbox12").checked;
+    checkbox13 = document.getElementById("Checkbox13").checked;
+    checkbox14 = document.getElementById("Checkbox14").checked;
+    checkbox15 = document.getElementById("Checkbox15").checked;
+    checkbox16 = document.getElementById("Checkbox16").checked;
 
 
 }
